@@ -3,6 +3,9 @@
 
 Predicts the **Fire Weather Index (FWI)** from weather conditions and fire-index values using a **Ridge regression** model. The project includes two web apps built on the same trained model: one with **Flask** and one with **Streamlit**.
 
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://algerian-fwi-predictor.streamlit.app/)
+
 ## About the project
 
 The Fire Weather Index is a numeric rating of how intense a forest fire could be under the current conditions. It comes from the Canadian Forest Fire Weather Index System. This project trains a regression model on the Algerian Forest Fires dataset and serves it through simple web interfaces, so you can enter conditions and get a predicted FWI instantly.
