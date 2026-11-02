@@ -1,0 +1,7 @@
+Flask
+numpy
+pandas
+scikit-learn
+
+# Optional: production server (macOS/Linux only)
+# gunicorn
