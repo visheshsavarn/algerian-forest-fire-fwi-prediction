@@ -2,6 +2,7 @@ Flask
 numpy
 pandas
 scikit-learn
-
+streamlit
+scikit-learn==1.9.0
 # Optional: production server (macOS/Linux only)
 # gunicorn
